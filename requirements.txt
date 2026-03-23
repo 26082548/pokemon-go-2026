@@ -16,3 +16,4 @@ psycopg2-binary==2.9.11
 sqlalchemy==2.0.46
 typing-extensions==4.15.0
 werkzeug==3.1.5
+Flask-Migrate==4.0.4
